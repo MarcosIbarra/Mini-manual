@@ -4,33 +4,28 @@ Mini-manual V.0
 Mini manual GNU/Linux
 
 Tema 1
-======
+------
 
-Cambiar a entorno CLI:    Ctrl + Alt + F1
+Cambiar a entorno CLI:  `Ctrl + Alt + F1`
 
-Volver a entorno grafico: Ctrl + Alt + f7
+Volver a entorno grafico: `Ctrl + Alt + F7`
 
-Ejecutar un programa:     Alt + F2
+Ejecutar un programa:     `Alt + F2`
 
 Tema 2
-======
+------
 
 Usuarios y Grupos
 
->id
+       id
 
->ls -l
+       pwd
 
->pwd
+       chmod 750
 
->chmod 750
+       users            # Imprime nombre de usuarios
 
->ls -l
-
-
->users            # Imprime nombre de usuarios
-
->whoami
+       whoami
 
 Loguear como otro usuario
 
@@ -39,3 +34,13 @@ Loguear como otro usuario
 Para salir de la cuenta de usuario
 
         exit
+        
+Tema 3
+------
+
+Comandos para crear carpetas, listar archivos y cambiar de directorios
+ 
+        ls -al
+        cd /
+        mkdir /algo
+        rmdir /algo
