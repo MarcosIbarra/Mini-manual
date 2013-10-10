@@ -31,3 +31,11 @@ Usuarios y Grupos
 >users            # Imprime nombre de usuarios
 
 >whoami
+
+Loguear como otro usuario
+
+        su - root
+
+Para salir de la cuenta de usuario
+
+        exit
