@@ -1,4 +1,4 @@
-Mini-manual V.0
+Mini-manual GNU/Linux V.0
 ===========
 
 Mini manual GNU/Linux
