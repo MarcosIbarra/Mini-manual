@@ -29,7 +29,7 @@ Usuarios y Grupos
 
 Loguear como otro usuario
 
-        su - root
+        su root
 
 Para salir de la cuenta de usuario
 
