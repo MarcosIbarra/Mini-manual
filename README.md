@@ -1,7 +1,7 @@
 Mini-manual GNU/Linux V.0
 ===========
 
-Mini manual GNU/Linux: Este manual es un resumen de comandos vistos en el curso Administracion basica
+Mini manual GNU/Linux: Este manual es un resumen de comandos vistos en el curso Introduccion a Linux
 
 
 Tema 1
