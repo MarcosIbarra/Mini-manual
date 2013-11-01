@@ -4,7 +4,7 @@ Mini-manual GNU/Linux V.0.5
 Mini manual GNU/Linux: Este manual es un resumen de comandos de GNU/Linux :)
 
 
-**Terminal uso basico**
+**Terminal: Combinaciones y uso basico**
 
 
 Cambiar a entorno CLI:  `Ctrl + Alt + F1`
